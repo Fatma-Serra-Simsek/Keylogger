@@ -1,0 +1,11 @@
+C:\Users\serra\source\repos\Klavye\Klavye\bin\Debug\Klavye.exe.config
+C:\Users\serra\source\repos\Klavye\Klavye\bin\Debug\Klavye.exe
+C:\Users\serra\source\repos\Klavye\Klavye\bin\Debug\Klavye.pdb
+C:\Users\serra\source\repos\Klavye\Klavye\obj\Debug\Klavye.csproj.AssemblyReference.cache
+C:\Users\serra\source\repos\Klavye\Klavye\obj\Debug\Klavye.Properties.Resources.resources
+C:\Users\serra\source\repos\Klavye\Klavye\obj\Debug\Klavye.csproj.GenerateResource.cache
+C:\Users\serra\source\repos\Klavye\Klavye\obj\Debug\Klavye.csproj.CoreCompileInputs.cache
+C:\Users\serra\source\repos\Klavye\Klavye\obj\Debug\Klavye.exe
+C:\Users\serra\source\repos\Klavye\Klavye\obj\Debug\Klavye.pdb
+C:\Users\serra\source\repos\Klavye\Klavye\obj\Debug\Klavye.exe.config
+C:\Users\serra\source\repos\Klavye\Klavye\obj\Debug\Klavye.win32.resources
